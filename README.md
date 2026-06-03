@@ -27,13 +27,6 @@ A **Line Chart** displaying the daily spending trend over time.
 
 ---
 
-##  File Structure & Automation
-
-The application is fully self-sustaining. [cite_start]On its first run, it checks for existing storage files and automatically generates them if they do not exist[cite: 1]:
-`Expense Sheet.csv`: Stores columns for `Date`, `Category`, and `Amount`.
-`Savings Goals.csv`: Tracks `Goal Name`, `Target Amount`, `Current Amount`, and `Target Date`
----
-
 ##  Getting Started
 
 ### Prerequisites
