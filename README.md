@@ -19,20 +19,19 @@ A **Line Chart** displaying the daily spending trend over time.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 **Language:** Python 3
-**Data Libraries:** Pandas (for structured data manipulation and CSV handling) [cite: 1, 2]
-**Visualization Libraries:** Matplotlib (for rendering customized analytical charts) [cite: 1, 2]
-**Environment:** IPython Display (for enhanced tabular formatting in supported environments) [cite: 1, 2]
+**Data Libraries:** Pandas (for structured data manipulation and CSV handling) 
+**Visualization Libraries:** Matplotlib (for rendering customized analytical charts)
+**Environment:** IPython Display (for enhanced tabular formatting in supported environments) 
 
 ---
 
 ##  File Structure & Automation
 
 The application is fully self-sustaining. [cite_start]On its first run, it checks for existing storage files and automatically generates them if they do not exist[cite: 1]:
-`Expense Sheet.csv`: Stores columns for `Date`, `Category`, and `Amount`[cite: 1].
-`Savings Goals.csv`: Tracks `Goal Name`, `Target Amount`, `Current Amount`, and `Target Date`[cite: 1].
-
+`Expense Sheet.csv`: Stores columns for `Date`, `Category`, and `Amount`.
+`Savings Goals.csv`: Tracks `Goal Name`, `Target Amount`, `Current Amount`, and `Target Date`
 ---
 
 ##  Getting Started
